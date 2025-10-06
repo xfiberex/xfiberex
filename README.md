@@ -3,7 +3,11 @@
   <h1>¡Hola! 👋 Soy Ricky Ángel Jiménez</h1>
   <p>
     <strong>Desarrollador Web Full‑Stack | .NET & MERN Stack</strong><br/>
-    Apasionado por construir aplicaciones robustas y escalables. Busco aportar valor en equipos que aman la calidad y el aprendizaje continuo.
+    Desarrollador Web Full‑Stack con 2 años de experiencia práctica construyendo aplicaciones web robustas y escalables con los stacks .NET y MERN. Sólida experiencia en diseño de bases de datos, desarrollo de APIs RESTful y creación de interfaces de usuario interactivas y accesibles.
+
+    Actualmente trabajo como Operador de Sistemas TI en Banco Múltiple Ademi y busco activamente mi primer rol    profesional formal en el desarrollo web fullstack para aportar mi pasión por la tecnología y la resolución de   problemas en un equipo de desarrollo innovador.
+
+    Tecnologías con las que trabajo: React, Node.js, Express, C#/.NET, SQL Server y MongoDB; con enfoque en buenas   prácticas, rendimiento y mantenibilidad.
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=xfiberex&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador"/>
@@ -86,7 +90,14 @@
       <p><strong>Stack:</strong> .NET 9, Blazor WebAssembly, SQL Server, EF Core, Swagger</p>
     </td>
     <td width="50%" valign="top">
-      <!-- Espacio para un futuro proyecto -->
+      <h3><a href="https://github.com/xfiberex/portafolio-web-rajb">Portafolio Web Personal</a></h3>
+      <p>
+        Sitio de portafolio responsive con sección de proyectos, habilidades y contacto. Optimizado para SEO y rendimiento, con integración de analíticas.
+      </p>
+      <p>
+        <a href="https://github.com/xfiberex/portafolio-web-rajb">Código</a> · <a href="#">Live Demo</a>
+      </p>
+      <p><strong>Stack:</strong> HTML5, CSS/Tailwind, JavaScript</p>
     </td>
   </tr>
   
