@@ -20,11 +20,37 @@
 - Herramientas & QA: Git, GitHub, Visual Studio, VS Code, Postman, Cypress
 - Principios: POO, SOLID, Arquitectura MVC
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,cs,dotnet,nodejs,express,mongodb,git,github,vscode,postman,cypress" />
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-061DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=20232A" alt="React"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/>
   <br/>
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express"/>
+  <br/>
+
+  <!-- Bases de Datos -->
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-</p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB"/>
+  <br/>
+
+  <!-- Herramientas & QA -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff" alt="Cypress"/>
+</div>
 
 ---
 
@@ -118,18 +144,6 @@
 - Universidad Desarrollo Web — FrontEnd Web Developer! — Udemy · <a href="https://ude.my/UC-86704336-5a4f-47b6-9865-65305d8e9ce8">Ver certificado</a>
 - C# Curso Completo para ser programador .NET — Udemy · <a href="https://ude.my/UC-d9956749-1290-452f-8ae0-dac05b51b199">Ver certificado</a>
 - Máster en SQL Server: Desde Cero a Nivel Profesional — Udemy · <a href="https://ude.my/UC-6350abbb-f5a4-42c2-a2d3-c1a5de9ca727">Ver certificado</a>
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfiberex&show_icons=true&locale=es" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xfiberex&layout=compact&locale=es" alt="top-langs"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfiberex" alt="streak"/>
-</p>
 
 ---
 
