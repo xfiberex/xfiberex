@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Hi"/>
-  <h1>¡Hola! 👋 Soy Ricky Ángel Jiménez</h1>
+  <h1>¡Hola! 👋 Soy Ricky Ángel Jiménez Bueno</h1>
   <p>
     <strong>Desarrollador Web Full‑Stack | .NET & MERN Stack</strong><br/>
     Desarrollador Web Full‑Stack con 2 años de experiencia práctica construyendo aplicaciones web robustas y escalables con los stacks .NET y MERN. Sólida experiencia en diseño de bases de datos, desarrollo de APIs RESTful y creación de interfaces de usuario interactivas y accesibles.
