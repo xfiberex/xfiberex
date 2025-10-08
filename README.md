@@ -56,7 +56,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/SistemaVenta_ASP.NET_CORE_MVC">Sistema de Ventas WEB · ASP.NET Core MVC</a></h3>
+      <h3><a href="https://github.com/xfiberex/SistemaVenta_ASP.NET_CORE_MVC" target="_blank" rel="noopener noreferrer">Sistema de Ventas WEB · ASP.NET Core MVC</a></h3>
       <p>
         Gestión de ventas con arquitectura en capas: autenticación por roles, dashboard, inventario, facturación PDF y reportes. Integración con Firebase para archivos.
       </p>
@@ -68,27 +68,30 @@
         App multiusuario con autenticación, CRUD por usuario, interfaz responsiva y filtros por prioridad/fechas.
       </p>
       <p>
-        <a href="https://github.com/xfiberex/todolist-frontend">Frontend</a> ·
-        <a href="https://github.com/xfiberex/todolist-backend">Backend</a>
+        Proyecto Separado — 
+        <a href="https://github.com/xfiberex/todolist-frontend" target="_blank" rel="noopener noreferrer">Frontend</a> · 
+        <a href="https://github.com/xfiberex/todolist-backend" target="_blank" rel="noopener noreferrer">Backend</a> . 
+        <a href="https://68e6a14b0b7a7b6794d20cb9--gestor-tareas-mern-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Demostración</a>
       </p>
       <p><strong>Stack:</strong> MongoDB, Express, React, Node.js</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/S_Blazor_TDApp">Sistema de Tareas Recurrentes · Blazor & .NET 9</a></h3>
+      <h3><a href="https://github.com/xfiberex/S_Blazor_TDApp" target="_blank" rel="noopener noreferrer">Sistema de Tareas Recurrentes · Blazor & .NET 9</a></h3>
       <p>
         WebApp con autenticación/roles, calendarización de tareas, reportes, servicios en segundo plano y API RESTful documentada (Swagger/OpenAPI).
       </p>
       <p><strong>Stack:</strong> .NET 9, Blazor WebAssembly, SQL Server, EF Core, Swagger</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/portafolio-web-rajb">Portafolio Web Personal</a></h3>
+      <h3><a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Portafolio Web Personal</a></h3>
       <p>
         Sitio de portafolio responsive con sección de proyectos, habilidades y contacto. Optimizado para SEO y rendimiento, con integración de analíticas.
       </p>
       <p>
-        <a href="https://github.com/xfiberex/portafolio-web-rajb">Código</a> · <a href="https://68e6858037260e008c087216--portafolio-web-rajb.netlify.app">Live Demo</a>
+        <a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Código</a> · 
+        <a href="https://68e6858037260e008c087216--portafolio-web-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
       </p>
       <p><strong>Stack:</strong> HTML5, CSS/Tailwind, JavaScript</p>
     </td>
@@ -144,10 +147,10 @@
 
 ## 📜 Certificaciones
 
-- JavaScript Moderno Guía Definitiva Construye +20 Proyectos — Udemy · <a href="https://ude.my/UC-ab97420b-943d-492e-9274-26f8d83bb73f">Ver certificado</a>
-- Universidad Desarrollo Web — FrontEnd Web Developer! — Udemy · <a href="https://ude.my/UC-86704336-5a4f-47b6-9865-65305d8e9ce8">Ver certificado</a>
-- C# Curso Completo para ser programador .NET — Udemy · <a href="https://ude.my/UC-d9956749-1290-452f-8ae0-dac05b51b199">Ver certificado</a>
-- Máster en SQL Server: Desde Cero a Nivel Profesional — Udemy · <a href="https://ude.my/UC-6350abbb-f5a4-42c2-a2d3-c1a5de9ca727">Ver certificado</a>
+- JavaScript Moderno Guía Definitiva Construye +20 Proyectos — Udemy · <a href="https://ude.my/UC-ab97420b-943d-492e-9274-26f8d83bb73f" target="_blank" rel="noopener noreferrer">Ver certificado</a>
+- Universidad Desarrollo Web — FrontEnd Web Developer! — Udemy · <a href="https://ude.my/UC-86704336-5a4f-47b6-9865-65305d8e9ce8" target="_blank" rel="noopener noreferrer">Ver certificado</a>
+- C# Curso Completo para ser programador .NET — Udemy · <a href="https://ude.my/UC-d9956749-1290-452f-8ae0-dac05b51b199" target="_blank" rel="noopener noreferrer">Ver certificado</a>
+- Máster en SQL Server: Desde Cero a Nivel Profesional — Udemy · <a href="https://ude.my/UC-6350abbb-f5a4-42c2-a2d3-c1a5de9ca727" target="_blank" rel="noopener noreferrer">Ver certificado</a>
 
 ---
 
