@@ -5,9 +5,6 @@
     <strong>Desarrollador Web Full‑Stack | .NET & MERN Stack</strong><br/>
     Desarrollador Web Full‑Stack con 2 años de experiencia práctica construyendo aplicaciones web robustas y escalables con los stacks .NET y MERN. Sólida experiencia en diseño de bases de datos, desarrollo de APIs RESTful y creación de interfaces de usuario interactivas y accesibles.
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=xfiberex&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador"/>
-  </p>
 </div>
 
 ---
@@ -91,7 +88,7 @@
         Sitio de portafolio responsive con sección de proyectos, habilidades y contacto. Optimizado para SEO y rendimiento, con integración de analíticas.
       </p>
       <p>
-        <a href="https://github.com/xfiberex/portafolio-web-rajb">Código</a> · <a href="#">Live Demo</a>
+        <a href="https://github.com/xfiberex/portafolio-web-rajb">Código</a> · <a href="https://68e6858037260e008c087216--portafolio-web-rajb.netlify.app">Live Demo</a>
       </p>
       <p><strong>Stack:</strong> HTML5, CSS/Tailwind, JavaScript</p>
     </td>
