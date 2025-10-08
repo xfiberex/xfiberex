@@ -71,7 +71,7 @@
         Proyecto Separado — 
         <a href="https://github.com/xfiberex/todolist-frontend" target="_blank" rel="noopener noreferrer">Frontend</a> · 
         <a href="https://github.com/xfiberex/todolist-backend" target="_blank" rel="noopener noreferrer">Backend</a> . 
-        <a href="https://68e6a14b0b7a7b6794d20cb9--gestor-tareas-mern-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Demostración</a>
+        <a href="https://gestor-tareas-mern-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Demostración</a>
       </p>
       <p><strong>Stack:</strong> MongoDB, Express, React, Node.js</p>
     </td>
@@ -91,7 +91,7 @@
       </p>
       <p>
         <a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Código</a> · 
-        <a href="https://68e6858037260e008c087216--portafolio-web-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+        <a href="https://portafolio-web-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
       </p>
       <p><strong>Stack:</strong> HTML5, CSS/Tailwind, JavaScript</p>
     </td>
