@@ -3,7 +3,8 @@
   <h1>¡Hola! 👋 Soy Ricky Ángel Jiménez Bueno</h1>
   <p>
     <strong>Desarrollador Web Full‑Stack | .NET & MERN Stack</strong><br/>
-    Desarrollador Web Full‑Stack con 2 años de experiencia práctica construyendo aplicaciones web robustas y escalables con los stacks .NET y MERN. Sólida experiencia en diseño de bases de datos, desarrollo de APIs RESTful y creación de interfaces de usuario interactivas y accesibles.
+    Soy un apasionado desarrollador Full-Stack con un fuerte enfoque en el ecosistema de JavaScript, especializándome en el stack MERN y .NET.
+    Mi trayectoria comenzó en el sector de TI, pero mi verdadera pasión siempre ha sido el código. Todo lo que verás aquí es el resultado de horas de estudio, dedicación y proyectos freelance en los que he tenido la oportunidad de construir y desplegar aplicaciones web modernas desde cero.
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=xfiberex&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador"/>
