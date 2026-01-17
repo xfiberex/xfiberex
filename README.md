@@ -12,16 +12,19 @@
 
 ## 💡 Competencias Técnicas
 
-- Frontend: JavaScript (ES6+), React, Blazor, HTML5, CSS3, Tailwind CSS
-- Backend: C#, .NET (ASP.NET MVC/Web API), Node.js, Express
-- Bases de Datos: SQL Server (ADO.NET, EF Core), MongoDB
-- Herramientas & QA: Git, GitHub, Visual Studio, VS Code, Postman, Cypress
-- Principios: POO, SOLID, Arquitectura MVC
+- Frontend: JavaScript (ES6+), TypeScript, React, Next.js, Blazor, HTML5, CSS3, Tailwind CSS, Vite
+- Backend: C#, .NET (ASP.NET MVC/Web API), Node.js, Express, Pug
+- Bases de Datos: SQL Server (ADO.NET, EF Core), PostgreSQL, MongoDB, Sequelize
+- Herramientas & QA: Git, GitHub, Visual Studio, VS Code, Postman, Cypress, Swagger/OpenAPI
+- Principios: POO, SOLID, Arquitectura MVC, REST API
 
 <div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-061DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=20232A" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite"/>
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt="Blazor"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
@@ -38,6 +41,7 @@
 
   <!-- Bases de Datos -->
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB"/>
   <br/>
 
@@ -48,6 +52,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger"/>
 </div>
 
 ---
@@ -57,11 +62,11 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/SistemaVenta_ASP.NET_CORE_MVC" target="_blank" rel="noopener noreferrer">Sistema de Ventas WEB · ASP.NET Core MVC</a></h3>
+      <h3><a href="https://github.com/xfiberex/kiosgo" target="_blank" rel="noopener noreferrer">Kiosgo</a></h3>
       <p>
-        Gestión de ventas con arquitectura en capas: autenticación por roles, dashboard, inventario, facturación PDF y reportes. Integración con Firebase para archivos.
+        Aplicación web para pedidos autónomos desde un kiosko, con panel administrativo en tiempo real para gestionar productos y órdenes. Incluye validación de datos con Zod y notificaciones interactivas.
       </p>
-      <p><strong>Stack:</strong> C#, ASP.NET Core MVC, SQL Server, EF Core, Firebase</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Tailwind CSS, Zod</p>
     </td>
     <td width="50%" valign="top">
       <h3>Gestor de Tareas · MERN</h3>
@@ -79,11 +84,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/S_Blazor_TDApp" target="_blank" rel="noopener noreferrer">Sistema de Tareas Recurrentes · Blazor & .NET 9</a></h3>
+      <h3><a href="https://github.com/xfiberex/SistemaVenta_ASP.NET_CORE_MVC" target="_blank" rel="noopener noreferrer">Sistema de Ventas WEB · ASP.NET Core MVC</a></h3>
       <p>
-        WebApp con autenticación/roles, calendarización de tareas, reportes, servicios en segundo plano y API RESTful documentada (Swagger/OpenAPI).
+        Gestión de ventas con arquitectura en capas: autenticación por roles, dashboard, inventario, facturación PDF y reportes. Integración con Firebase para archivos.
       </p>
-      <p><strong>Stack:</strong> .NET 9, Blazor WebAssembly, SQL Server, EF Core, Swagger</p>
+      <p><strong>Stack:</strong> C#, ASP.NET Core MVC, SQL Server, EF Core, Firebase</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Portafolio Web Personal</a></h3>
@@ -92,9 +97,9 @@
       </p>
       <p>
         <a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Código</a> · 
-        <a href="https://portafolio-web-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+        <a href="https://portafolio-web-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Pagina Web</a>
       </p>
-      <p><strong>Stack:</strong> HTML5, CSS/Tailwind, JavaScript</p>
+      <p><strong>Stack:</strong> React, TypeScript, Vite, Tailwind CSS</p>
     </td>
   </tr>
   
@@ -110,15 +115,6 @@
     <li>Ejecución y supervisión de cierres bancarios.</li>
     <li>Monitoreo proactivo y gestión/escalamiento de incidentes.</li>
     <li>Automatización de procesos y documentación técnica.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Desarrollador Full‑Stack — Proyectos personales/Freelance</strong> (Oct 2023 · Actual)</summary>
-  <ul>
-    <li>Diseño e implementación end‑to‑end con React, Blazor, .NET Core y Node.js.</li>
-    <li>APIs RESTful seguras, arquitectura limpia, principios SOLID y MVC.</li>
-    <li>Modelado de datos y optimización en SQL Server y MongoDB.</li>
   </ul>
 </details>
 
@@ -148,6 +144,7 @@
 
 ## 📜 Certificaciones
 
+- React y TypeScript - La Guía Completa Creando +10 Proyectos — Udemy · <a href="https://ude.my/UC-37760f9e-90f7-4d69-949b-39677cda27f7" target="_blank" rel="noopener noreferrer">Ver certificado</a>
 - JavaScript Moderno Guía Definitiva Construye +20 Proyectos — Udemy · <a href="https://ude.my/UC-ab97420b-943d-492e-9274-26f8d83bb73f" target="_blank" rel="noopener noreferrer">Ver certificado</a>
 - Universidad Desarrollo Web — FrontEnd Web Developer! — Udemy · <a href="https://ude.my/UC-86704336-5a4f-47b6-9865-65305d8e9ce8" target="_blank" rel="noopener noreferrer">Ver certificado</a>
 - C# Curso Completo para ser programador .NET — Udemy · <a href="https://ude.my/UC-d9956749-1290-452f-8ae0-dac05b51b199" target="_blank" rel="noopener noreferrer">Ver certificado</a>
