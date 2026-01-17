@@ -66,6 +66,9 @@
       <p>
         Aplicación web para pedidos autónomos desde un kiosko, con panel administrativo en tiempo real para gestionar productos y órdenes. Incluye validación de datos con Zod y notificaciones interactivas.
       </p>
+      <p>
+        <a href="https://kiosgo-two.vercel.app" target="_blank" rel="noopener noreferrer">Demostración</a>
+      </p>
       <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Tailwind CSS, Zod</p>
     </td>
     <td width="50%" valign="top">
