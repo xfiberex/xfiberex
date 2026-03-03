@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Hi"/>
   <h1>¡Hola! 👋 Soy Ricky Ángel Jiménez Bueno</h1>
   <p>
-    <strong>Desarrollador Web Full‑Stack | .NET & MERN Stack</strong><br/>
-    Soy un apasionado desarrollador Full-Stack con un fuerte enfoque en el ecosistema de JavaScript, especializándome en el stack MERN y .NET.
+    <strong>Desarrollador Web Full‑Stack | .NET & MERN/PERN Stack</strong><br/>
+    Soy un apasionado desarrollador Full-Stack con un fuerte enfoque en el ecosistema de JavaScript, especializándome en el stack MERN/PERN y .NET.
     Mi trayectoria comenzó en el sector de TI, pero mi verdadera pasión siempre ha sido el código. Todo lo que verás aquí es el resultado de horas de estudio, dedicación y proyectos freelance en los que he tenido la oportunidad de construir y desplegar aplicaciones web modernas desde cero.
   </p>
 </div>
@@ -12,15 +12,8 @@
 
 ## 💡 Competencias Técnicas
 
-- **Frontend:** TypeScript, React, Next.js, Blazor, HTML5, CSS3, Tailwind CSS, Vite
-- **Backend:** C#, .NET (ASP.NET MVC/Web API), Node.js, Express
-- **Bases de Datos:** SQL Server, PostgreSQL, MongoDB
-- **ORM:** (ADO.NET, EF Core), Mongoose, Prisma
-- **Herramientas & QA:** Git, GitHub, Visual Studio, VS Code, Postman, Cypress, Swagger/OpenAPI, Prisma Studio, Antigravity.
-- **Principios:** POO, SOLID, Arquitectura MVC, REST API.
-
-<div align="center">
-  <!-- Frontend -->
+### 🎨 Frontend
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js"/>
@@ -29,24 +22,29 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite"/>
-  <br/>
-  
-  <!-- Backend -->
+</div>
+
+### ⚙️ Backend
+<div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt=".NET"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express"/>
-  <br/>
+</div>
 
-  <!-- Databases & ORM -->
+### 🗄️ Bases de Datos & ORM
+<div align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt="EF Core"/>
+  <img src="https://img.shields.io/badge/ADO.NET-00599C?style=for-the-badge&logo=dotnet&logoColor=fff" alt="ADO.NET"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff" alt="Mongoose"/>
-  <br/>
+</div>
 
-  <!-- Tools & QA -->
+### 🧰 Herramientas & QA
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff" alt="Visual Studio"/>
@@ -54,62 +52,40 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="GoogleGemini"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Prisma%20Studio-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma Studio"/>
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge" alt="Antigravity"/>
 </div>
+
+### 🧠 Principios
+- POO
+- SOLID
+- Arquitectura MVC
+- Arquitectura Modular por Dominio
+- Feature-based Architecture
+- REST API
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/kiosgo" target="_blank" rel="noopener noreferrer">Kiosgo</a></h3>
-      <p>
-        Aplicación web para pedidos autónomos desde un kiosko, con panel administrativo en tiempo real para gestionar productos y órdenes. Incluye validación de datos con Zod y notificaciones interactivas.
-      </p>
-      <p>
-        <a href="https://kiosgo-two.vercel.app" target="_blank" rel="noopener noreferrer">Demostración</a>
-      </p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Tailwind CSS, Zod</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Gestor de Tareas · MERN</h3>
-      <p>
-        App multiusuario con autenticación, CRUD por usuario, interfaz responsiva y filtros por prioridad/fechas.
-      </p>
-      <p>
-        Proyecto Separado — 
-        <a href="https://github.com/xfiberex/todolist-frontend" target="_blank" rel="noopener noreferrer">Frontend</a> · 
-        <a href="https://github.com/xfiberex/todolist-backend" target="_blank" rel="noopener noreferrer">Backend</a> . 
-        <a href="https://gestor-tareas-mern-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Demostración</a>
-      </p>
-      <p><strong>Stack:</strong> MongoDB, Express, React, Node.js</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/SistemaVenta_ASP.NET_CORE_MVC" target="_blank" rel="noopener noreferrer">Sistema de Ventas WEB · ASP.NET Core MVC</a></h3>
-      <p>
-        Gestión de ventas con arquitectura en capas: autenticación por roles, dashboard, inventario, facturación PDF y reportes. Integración con Firebase para archivos.
-      </p>
-      <p><strong>Stack:</strong> C#, ASP.NET Core MVC, SQL Server, EF Core, Firebase</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Portafolio Web Personal</a></h3>
-      <p>
-        Sitio de portafolio responsive con sección de proyectos, habilidades y contacto. Optimizado para SEO y rendimiento, con integración de analíticas.
-      </p>
-      <p>
-        <a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank" rel="noopener noreferrer">Código</a> · 
-        <a href="https://portafolio-web-rajb.netlify.app" target="_blank" rel="noopener noreferrer">Pagina Web</a>
-      </p>
-      <p><strong>Stack:</strong> React, TypeScript, Vite, Tailwind CSS</p>
-    </td>
-  </tr>
-  
-</table>
+- **[Kiosgo](https://github.com/xfiberex/kiosgo)**
+  - App de pedidos autónomos con panel admin en tiempo real.
+  - Enlace: [Demostración](https://kiosgo-two.vercel.app)
+  - Stack: Next.js, TypeScript, PostgreSQL, Tailwind CSS, Zod.
+
+- **Gestor de Tareas · MERN**
+  - App multiusuario con autenticación, CRUD por usuario y filtros por prioridad/fechas.
+  - Enlaces: [Frontend](https://github.com/xfiberex/todolist-frontend) · [Backend](https://github.com/xfiberex/todolist-backend) · [Demostración](https://gestor-tareas-mern-rajb.netlify.app)
+  - Stack: MongoDB, Express, React, Node.js.
+
+- **[Sistema de Ventas Web · ASP.NET Core MVC](https://github.com/xfiberex/SistemaVenta_ASP.NET_CORE_MVC)**
+  - Gestión de ventas con roles, dashboard, inventario, facturación PDF y reportes.
+  - Stack: C#, ASP.NET Core MVC, SQL Server, EF Core, Firebase.
+
+- **[Portafolio Web Personal](https://github.com/xfiberex/portafolio-web-rajb)**
+  - Sitio responsive con proyectos, habilidades y contacto, optimizado para SEO y rendimiento.
+  - Enlaces: [Código](https://github.com/xfiberex/portafolio-web-rajb) · [Página web](https://portafolio-web-rajb.netlify.app)
+  - Stack: React, TypeScript, Vite, Tailwind CSS.
 
 ---
 
