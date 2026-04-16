@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://portafolio-web-rajb.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Portafolio"/>
   </a>
 
 </div>
@@ -229,7 +229,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://portafolio-web-rajb.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Portafolio"/>
   </a>
 </div>
 
