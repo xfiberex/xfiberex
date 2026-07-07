@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Prisma%20Studio-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma Studio"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest">
 </div>
 
 ### 🧠 Principios
