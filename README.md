@@ -75,10 +75,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Prisma%20Studio-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma Studio"/>
-  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
 </div>
 
 ### 🧠 Principios
