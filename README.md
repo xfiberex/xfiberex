@@ -96,6 +96,8 @@
 
 ## 🚀 Proyectos Destacados
 
+### 🌐 Aplicaciones Web
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -154,6 +156,15 @@
     </td>
   </tr>
 </table>
+
+### 🖥️ Aplicaciones de Escritorio · Windows (Criterio Tecnico + IA desde cero)
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[ProcessDevKill](https://github.com/xfiberex/ProcessDevKill)** | Gestor de procesos de desarrollo: lista Node, Python y .NET con CPU, RAM, uptime y puertos TCP en escucha. Cierre individual o masivo, detector de procesos zombis y auto-kill por umbral de RAM. | Tauri 2 · Rust · React 19 · TypeScript · Tailwind CSS |
+| **[FormatDiskPro](https://github.com/xfiberex/FormatDiskPro)** | Formateo y diagnóstico de discos con soporte para NTFS, exFAT, ReFS, FAT32 y FAT. Salud S.M.A.R.T., verificación de capacidad real, chkdsk, benchmark y borrado seguro con protección del disco de sistema. | C# 13 · .NET 10 · WinUI 3 · PowerShell |
+| **[OfiConvert](https://github.com/xfiberex/OfiConvert)** | Conversor por lotes de documentos Office a PDF, HTML, CSV, PNG y JPG. Cola persistente, conversiones en paralelo, reintentos con backoff e integración con el menú contextual de Windows. | C# · .NET 10 · WinUI 3 · MVVM · Office COM / LibreOffice |
+| **[WingetUSoft](https://github.com/xfiberex/WingetUSoft)** | Interfaz gráfica para winget: buscar, instalar, actualizar y desinstalar programas sin usar la terminal. Import/export del listado de software en JSON y gestión selectiva de actualizaciones. | C# · .NET 10 · WinUI 3 · Windows App SDK |
 
 <!-- WAVE SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator"/>
