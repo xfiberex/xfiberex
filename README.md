@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-  <h1>¡Hola! 👋 Soy Ricky Ángel Jiménez Bueno</h1>
+  <h1>¡Hola! 👋 Soy Ricky Angel Jiménez Bueno</h1>
 
   <p>
-    <strong>Desarrollador Web Full‑Stack | .NET & MERN/PERN Stack</strong><br/>
+    <strong>Desarrollador Web Full-Stack | .NET & MERN/PERN Stack</strong><br/>
     Soy un apasionado desarrollador Full-Stack con un fuerte enfoque en el ecosistema de JavaScript, especializándome en el stack MERN/PERN y .NET.
     Mi trayectoria comenzó en el sector de TI, pero mi verdadera pasión siempre ha sido el código. Todo lo que verás aquí es el resultado de horas de estudio, dedicación y proyectos freelance en los que he tenido la oportunidad de construir y desplegar aplicaciones web modernas desde cero.
   </p>
@@ -157,7 +157,7 @@
   </tr>
 </table>
 
-### 🖥️ Aplicaciones de Escritorio · Windows (Criterio Tecnico + IA desde cero)
+### 🖥️ Aplicaciones de Escritorio · Windows (Criterio Técnico + IA desde cero)
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -181,7 +181,7 @@
 </details>
 
 <details>
-  <summary><strong>Técnico de soporte TI — Independiente</strong> (Mar 2023 · May 2024)</summary>
+  <summary><strong>Técnico de Soporte TI — Independiente</strong> (Mar 2023 · May 2024)</summary>
   <ul>
     <li>Instalación y configuración de SO; diagnóstico y resolución de incidencias.</li>
     <li>Soporte presencial y remoto; asesoría tecnológica a clientes.</li>
