@@ -98,36 +98,37 @@
 
 ### 🌐 Aplicaciones Web
 
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Kiosgo</h3>
+      <h3 align="center">TrackerMultimedia · Full-Stack</h3>
       <p align="center">
-        <a href="https://github.com/xfiberex/kiosgo" target="_blank">
-          <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=fff" alt="Repo"/>
+        <a href="https://github.com/xfiberex/TrackerMultimedia_Backend" target="_blank">
+          <img src="https://img.shields.io/badge/Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt="Backend"/>
         </a>
-        <a href="https://kiosgo-two.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Demo"/>
+        <a href="https://github.com/xfiberex/TrackerMultimedia_Frontend" target="_blank">
+          <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="Frontend"/>
         </a>
-      </p>
-      <p>App de pedidos autónomos con panel admin en tiempo real.</p>
-      <p><strong>Stack:</strong> Next.js · TypeScript · PostgreSQL · Tailwind CSS · Zod</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Gestor de Tareas · MERN</h3>
-      <p align="center">
-        <a href="https://github.com/xfiberex/todolist-frontend" target="_blank">
-          <img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=fff" alt="Frontend"/>
-        </a>
-        <a href="https://github.com/xfiberex/todolist-backend" target="_blank">
-          <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=fff" alt="Backend"/>
-        </a>
-        <a href="https://gestor-tareas-mern-rajb.netlify.app" target="_blank">
+        <a href="https://trackermultimedia.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Demo"/>
         </a>
       </p>
-      <p>App multiusuario con autenticación, CRUD por usuario y filtros por prioridad/fechas.</p>
-      <p><strong>Stack:</strong> MongoDB · Express · React · Node.js</p>
+      <p>Seguimiento de anime, manga y manhwa. API en capas con <strong>JWT de refresh rotativo y detección de reúso</strong>, OAuth (Google/GitHub) con <strong>PKCE</strong>, migraciones versionadas y suite de tests que incluye aislamiento entre usuarios.</p>
+      <p><strong>Stack:</strong> ASP.NET Core 10 · C# · EF Core · PostgreSQL · React 19 · TypeScript · Docker</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Stockly · Full-Stack</h3>
+      <p align="center">
+        <a href="https://github.com/xfiberex/Stockly-B" target="_blank">
+          <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Backend"/>
+        </a>
+        <a href="https://github.com/xfiberex/Stockly-F" target="_blank">
+          <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="Frontend"/>
+        </a>
+      </p>
+      <p>Gestión de inventario con órdenes de compra y venta. <strong>Control de concurrencia en stock</strong> resuelto con decremento condicional, decisiones registradas en <strong>ADRs</strong>, observabilidad con Prometheus y pruebas de carga propias.</p>
+      <p><strong>Stack:</strong> Express 5 · TypeScript · Prisma · PostgreSQL · React · TanStack Query · Docker</p>
     </td>
   </tr>
   <tr>
@@ -138,21 +139,21 @@
           <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=fff" alt="Repo"/>
         </a>
       </p>
-      <p>Gestión de ventas con roles, dashboard, inventario, facturación PDF y reportes.</p>
-      <p><strong>Stack:</strong> C# · ASP.NET Core MVC · SQL Server · EF Core · Firebase</p>
+      <p>Gestión de ventas con roles, dashboard, inventario, facturación PDF y reportes. Arquitectura por capas (Entity · DAL · BLL · IOC).</p>
+      <p><strong>Stack:</strong> C# · ASP.NET Core MVC · SQL Server · EF Core · AutoMapper</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portafolio Web Personal</h3>
+      <h3 align="center">Kiosgo</h3>
       <p align="center">
-        <a href="https://github.com/xfiberex/portafolio-web-rajb" target="_blank">
+        <a href="https://github.com/xfiberex/kiosgo" target="_blank">
           <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=fff" alt="Repo"/>
         </a>
-        <a href="https://portafolio-web-rajb.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Demo"/>
+        <a href="https://kiosgo-two.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Demo"/>
         </a>
       </p>
-      <p>Sitio responsive con proyectos, habilidades y contacto, optimizado para SEO y rendimiento.</p>
-      <p><strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS</p>
+      <p>App de pedidos autónomos desde kiosko con panel administrativo en tiempo real.</p>
+      <p><strong>Stack:</strong> Next.js · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Zod</p>
     </td>
   </tr>
 </table>
