@@ -110,11 +110,8 @@
         <a href="https://github.com/xfiberex/TrackerMultimedia_Frontend" target="_blank">
           <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="Frontend"/>
         </a>
-        <a href="https://trackermultimedia.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Demo"/>
-        </a>
       </p>
-      <p>Seguimiento de anime, manga y manhwa. API en capas con <strong>JWT de refresh rotativo y detección de reúso</strong>, OAuth (Google/GitHub) con <strong>PKCE</strong>, migraciones versionadas y suite de tests que incluye aislamiento entre usuarios.</p>
+      <p>Seguimiento de anime, manga y manhwa. API en capas con <strong>JWT de refresh rotativo y detección de reúso</strong>, OAuth (Google/GitHub) con <strong>PKCE</strong>, migraciones versionadas y suite de tests que incluye aislamiento entre usuarios. Ejecución local con PostgreSQL.</p>
       <p><strong>Stack:</strong> ASP.NET Core 10 · C# · EF Core · PostgreSQL · React 19 · TypeScript · Docker</p>
     </td>
     <td width="50%" valign="top">
