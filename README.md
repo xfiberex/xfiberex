@@ -111,7 +111,7 @@
           <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="Frontend"/>
         </a>
       </p>
-      <p>Seguimiento de anime, manga y manhwa. API en capas con <strong>JWT de refresh rotativo y detección de reúso</strong>, OAuth (Google/GitHub) con <strong>PKCE</strong>, migraciones versionadas y suite de tests que incluye aislamiento entre usuarios. Ejecución local con PostgreSQL.</p>
+      <p>Biblioteca personal para llevar el registro y el progreso de lo que ves, lees o juegas, con <strong>categorías y formatos definidos por el usuario</strong>. API en capas con <strong>JWT de refresh rotativo y detección de reúso</strong>, OAuth (Google/GitHub) con <strong>PKCE</strong>, migraciones versionadas y tests de aislamiento entre usuarios. Ejecución local con PostgreSQL.</p>
       <p><strong>Stack:</strong> ASP.NET Core 10 · C# · EF Core · PostgreSQL · React 19 · TypeScript · Docker</p>
     </td>
     <td width="50%" valign="top">
@@ -124,7 +124,7 @@
           <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="Frontend"/>
         </a>
       </p>
-      <p>Gestión de inventario con órdenes de compra y venta. <strong>Control de concurrencia en stock</strong> resuelto con decremento condicional, decisiones registradas en <strong>ADRs</strong>, observabilidad con Prometheus y pruebas de carga propias.</p>
+      <p>Gestión de inventario con órdenes de compra y venta. <strong>Control de concurrencia en stock</strong> resuelto con decremento condicional, decisiones registradas en <strong>ADRs</strong>, endpoint de métricas y logs estructurados, y pruebas de carga propias.</p>
       <p><strong>Stack:</strong> Express 5 · TypeScript · Prisma · PostgreSQL · React · TanStack Query · Docker</p>
     </td>
   </tr>
